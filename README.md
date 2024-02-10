@@ -1,1 +1,2 @@
-![image](https://github.com/Sohel440/leetcode-daily-/assets/109268326/968f27c5-3672-4b65-be25-2962f9095518)
+![image](https://github.com/Sohel440/leetcode-daily-/assets/109268326/90c4351d-ea80-415c-bd39-101cf6501971)
+
